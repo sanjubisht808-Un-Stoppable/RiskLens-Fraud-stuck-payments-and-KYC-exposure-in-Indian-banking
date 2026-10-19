@@ -45,9 +45,9 @@ End-to-end analytics on 550,000 banking transactions. It answers where fraud is 
 3. **Step-up KYC on large payments:** re-verify at ₹10L or more; start with RTGS, Maharashtra, Karnataka, Tamil Nadu.
 
 ## Dashboard
-![Fraud page](images/page1_fraud.png.png)
-![Stuck money page](images/page2_stuck_money.png.png)
-![KYC page](images/page3_kyc.png.png)
+![Fraud page](page1_fraud.png.png)
+![Stuck money page](page2_stuck_money.png.png)
+![KYC page](page3_kyc.png.png)
 
 ## Techniques
 - **Python:** groupby/agg, `pd.cut`, 1/0 flags, cumulative sums, seaborn and matplotlib
